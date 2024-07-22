@@ -30,7 +30,7 @@
    - Navigate to the directory where you want to create your new React application.
    - Run the following command, replacing `my-app` with your desired project name:
      ```sh
-     create-react-app my-app
+     npx create-react-app my-app
      ```
 
 3. **Navigate to Your Project Directory**:
